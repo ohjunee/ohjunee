@@ -1,5 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=POP%20THAT%20CHAMPAGNE%20FOR%20CHAMPION&fontSize=40&animation=blink&)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&hide_rank=true&card_width=900)](https://github.com/ohjunee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&hide_rank=true&card_width=500)](https://github.com/ohjunee/github-readme-stats)
 
 
 <!--
