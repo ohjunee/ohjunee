@@ -1,5 +1,5 @@
-### Hi there 👋###⚡Ohjun Kwon⚡
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=POP%20THAT%20CHAMPAGNE%20FOR%20CHAMPION&fontSize=30)
+###⚡Ohjun Kwon⚡
 <!--
 **ohjunee/ohjunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
