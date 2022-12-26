@@ -1,6 +1,6 @@
 <div align=center>
  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&fontSize=50&text=✨%20OHJUN%20KWON%20REPOSITORY%20✨&desc=welcome%20to%20my%20stu)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=footer&fontSize=50&text=✨%20OHJUN%20KWON%20REPOSITORY%20✨&desc=welcome%20to%20my%20stu)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&hide_rank=true&card_width=500)](https://github.com/ohjunee/github-readme-stats)
  </div>
