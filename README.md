@@ -3,6 +3,9 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&fontSize=50&text=⚡Welcome%20To%20My%20Studio⚡)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&hide_rank=true&card_width=800)](https://github.com/ohjunee/github-readme-stats)
+
+ ## HERE ARE SOME EXAMPLE FOR MY PAPER🔭
+![스크린샷_20221227_035000](https://user-images.githubusercontent.com/49416429/209580201-28ecd18d-1515-445b-bae3-e35a13527037.png)
  </div>
 
 <!--
