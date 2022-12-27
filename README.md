@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡) 
+## Hi there,👋
 
 <p align="left">
 <img width="51%"  src="https://github-readme-stats.vercel.app/api?username=ohjunee&count_private=true&show_icons=true&include_all_commits=false&text_bold=false&hide_border=true&hide_title=true&theme=transparent&layout=compact" />
