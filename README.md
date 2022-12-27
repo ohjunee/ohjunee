@@ -8,15 +8,11 @@
  ## HERE ARE SOME EXAMPLES FOR MY PAPER🔭
 
 > ### 1. Object Detection  
-> <div align=center>
 > ![스크린샷_20221227_050840](https://user-images.githubusercontent.com/49416429/209580526-5afb4039-6e05-41f3-866d-5eda19b421ba.png)
 >   
 > ### 2. Image Deblurring  
-> ![스크린샷_20221227_065403](https://user-images.githubusercontent.com/49416429/209648926-0af23592-a132-4697-bb50-0d3c972d58ee.png)  
-> model architecture
-> 
-> ![스크린샷_20221227_065411](https://user-images.githubusercontent.com/49416429/209648919-79ea2f82-e9eb-4d61-b55c-231f99651730.png) 
-> </div>
+>  ![스크린샷_20221227_070031](https://user-images.githubusercontent.com/49416429/209649839-8c58980f-e0a7-43d7-8efa-7ae5d08ecfda.png)  
+>  ![스크린샷_20221227_070208](https://user-images.githubusercontent.com/49416429/209649859-82646a1b-0be6-495b-8490-5910dc9c779a.png)  
 <!--
 
 **ohjunee/ohjunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
