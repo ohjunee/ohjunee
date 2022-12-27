@@ -3,7 +3,7 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&hide_rank=true&card_width=800)](https://github.com/ohjunee/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=ohjunee&show_icons=true&theme=transparent&height=100"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&theme=transparent"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=ohjunee&show_icons=true&theme=transparent&card_height=100"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&theme=transparent"><br><br>
  </div>  
  
  ## Interest🔭
