@@ -1,11 +1,11 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡) 
 
-<p align="center">
+<p align="left">
 <img width="51%"  src="https://github-readme-stats.vercel.app/api?username=ohjunee&count_private=true&show_icons=true&include_all_commits=false&text_bold=false&hide_border=true&hide_title=true&theme=transparent&layout=compact" />
 <img width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&hide_title=true&layout=compact&theme=transparent&hide_border=true" />  
 </p>
 
-<p align="center">
+<p align="left">
  <a href="https://github.com/ohjunee"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohjunee%2Fhit-counter&count_bg=%23ACACAC&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a> 
  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="20" /></a>
  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="20" /></a>
