@@ -1,5 +1,5 @@
 <div align="right">
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohjunee%2Fhit-counter&count_bg=%23D37619&title_bg=%23555555&icon=pytorch.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://github.com/ohjunee)
+ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohjunee%2Fhit-counter&count_bg=%23D37619&title_bg=%23555555&icon=pytorch.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)(https://github.com/ohjunee)
  </div>
  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡)
