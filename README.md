@@ -3,8 +3,8 @@
 ## 🧍‍♂️**OHJUN KWON**  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohjunee%2Fhit-counter&count_bg=%23776E6E&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://github.com/ohjunee)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ohjunee&show_icons=true&theme=transparent&layout=compact">  
-
+<img width="51%"  src="https://github-readme-stats.vercel.app/api?username=ohjunee&show_icons=true&theme=transparent&layout=compact">   
+<img width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&theme=transparent">  
 
 ***   
 
@@ -13,7 +13,7 @@
 <img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ohjunee&hide_border=true" />
 </p>
 
-<img width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&theme=transparent">  
+
  
  ## 🔭Interest
 
