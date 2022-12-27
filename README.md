@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ohjunee&show_icons=true&theme=transparent&card_height=100">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&theme=transparent&card_height=10">  
  
- ## Interest🔭
+ ##🔭Interest
 
 > ### 1. Object Detection  
 > ![스크린샷_20221227_050840](https://user-images.githubusercontent.com/49416429/209580526-5afb4039-6e05-41f3-866d-5eda19b421ba.png)
