@@ -1,6 +1,6 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡)
 <img src="https://github-readme-stats.vercel.app/api?username=ohjunee&show_icons=true&theme=transparent&hide_rank=true">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&theme=transparent&card_height=10">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&theme=transparent&hide_rank=true">  
  
  ##🔭Interest
 
