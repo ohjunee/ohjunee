@@ -1,6 +1,16 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&card_width=100000&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡)  
 
 ### Hi there 👋 
+<br/>  
+
+
+<div sttyle='float:left'>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" />  
+</div>
+
+<br/>  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohjunee%2Fhit-counter&count_bg=%23776E6E&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://github.com/ohjunee) 
 
 <p align="left">
