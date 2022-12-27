@@ -6,8 +6,15 @@
  </div>  
  
  ## HERE ARE SOME EXAMPLES FOR MY PAPER🔭
-![스크린샷_20221227_050840](https://user-images.githubusercontent.com/49416429/209580526-5afb4039-6e05-41f3-866d-5eda19b421ba.png)
-
+ 
+> ### 1. Object Detection  
+> ![스크린샷_20221227_050840](https://user-images.githubusercontent.com/49416429/209580526-5afb4039-6e05-41f3-866d-5eda19b421ba.png)
+>   
+> ### 2. Image Deblurring  
+> ![스크린샷_20221227_065403](https://user-images.githubusercontent.com/49416429/209648926-0af23592-a132-4697-bb50-0d3c972d58ee.png)
+> model architecture
+>   
+> ![스크린샷_20221227_065411](https://user-images.githubusercontent.com/49416429/209648919-79ea2f82-e9eb-4d61-b55c-231f99651730.png)
 
 <!--
 
