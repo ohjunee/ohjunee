@@ -18,7 +18,7 @@
  ### 🔭 Interest 
 
 > #### 1. Object Detection  
-> <img src="https://user-images.githubusercontent.com/49416429/209580526-5afb4039-6e05-41f3-866d-5eda19b421ba.png" width="2000" height="500"/>
+> <img src="https://user-images.githubusercontent.com/49416429/209580526-5afb4039-6e05-41f3-866d-5eda19b421ba.png" width="2000" height="300"/>
 >   
 > #### 2. Image Deblurring  
 > <img src="https://user-images.githubusercontent.com/49416429/209651222-11363520-277c-41aa-b478-824acc766506.png" width="700" height="300"/>
