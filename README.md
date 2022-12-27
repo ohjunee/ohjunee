@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡)  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&card_width=500&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡)  
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ohjunee&show_icons=true&theme=transparent&layout=compact">  
