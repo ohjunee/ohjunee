@@ -9,11 +9,11 @@
 ***   
 
 <p align="center">
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=ohjunee&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="51%"  src="https://github-readme-stats.vercel.app/api?username=ohjunee&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 <img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ohjunee&hide_border=true" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&theme=transparent">  
+<img width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&layout=compact&theme=transparent">  
  
  ## 🔭Interest
 
