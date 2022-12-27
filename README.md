@@ -11,7 +11,8 @@
 > ![스크린샷_20221227_050840](https://user-images.githubusercontent.com/49416429/209580526-5afb4039-6e05-41f3-866d-5eda19b421ba.png)
 >   
 > ### 2. Image Deblurring  
-> ![wh_blurring](https://user-images.githubusercontent.com/49416429/209651002-7ecb1977-94df-4d62-be56-33e235e238ca.png)
+> ![wh_blurring](https://user-images.githubusercontent.com/49416429/209651222-11363520-277c-41aa-b478-824acc766506.png)
+
 
 <!--
 
