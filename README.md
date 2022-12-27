@@ -1,5 +1,5 @@
 <p align="center">
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&card_width=100000&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡) 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&card_width=100000&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡&desc=Desc&descAlign=20) 
 </p>
 
 <p align="right">
