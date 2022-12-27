@@ -1,12 +1,12 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&card_width=100000&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡)  
 
 ### Hi there 👋 
-<div style='float:right'>
+<p align="left">
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" />  
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohjunee%2Fhit-counter&count_bg=%23ACACAC&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
-</div>
+</p>
 
 <p align="left">
 <img width="51%"  src="https://github-readme-stats.vercel.app/api?username=ohjunee&count_private=true&show_icons=true&include_all_commits=false&text_bold=false&hide_border=true&hide_title=true&theme=transparent&layout=compact" />
