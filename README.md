@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&card_width=100000&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡&desc=Desc&descAlign=20) 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&card_width=100000&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡&descAlign=20) 
 
 <p align="right">
  <a href="https://github.com/ohjunee"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohjunee%2Fhit-counter&count_bg=%23ACACAC&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a> 
