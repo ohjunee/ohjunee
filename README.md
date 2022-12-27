@@ -1,7 +1,7 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&card_width=100000&section=footer&fontSize=50&text=⚡⚡⚡⚡⚡⚡⚡⚡)  
 
-## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohjunee%2Fhit-counter&count_bg=%23776E6E&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://github.com/ohjunee) **OHJUN KWON**  
-
+## **OHJUN KWON**  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohjunee%2Fhit-counter&count_bg=%23776E6E&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://github.com/ohjunee) 
 
 <p align="center">
  <img width="51%"  src="https://github-readme-stats.vercel.app/api?username=ohjunee&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=transparent&layout=compact" /> <img width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunee&hide_title=true&layout=compact&theme=transparent&hide_border=true" />  
