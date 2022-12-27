@@ -23,7 +23,7 @@
 >   
 > #### 2. Image Deblurring  
 > ![wh_blurring](https://user-images.githubusercontent.com/49416429/209651222-11363520-277c-41aa-b478-824acc766506.png)
-> <img src="https://user-images.githubusercontent.com/49416429/209651222-11363520-277c-41aa-b478-824acc766506.png" width="2000" height="500"/>
+> <img src="https://user-images.githubusercontent.com/49416429/209651222-11363520-277c-41aa-b478-824acc766506.png" width="1000" height="250"/>
 
 <!--
 
