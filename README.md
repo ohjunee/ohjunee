@@ -19,11 +19,11 @@
 
 > #### 1. Object Detection  
 > ![스크린샷_20221227_050840](https://user-images.githubusercontent.com/49416429/209580526-5afb4039-6e05-41f3-866d-5eda19b421ba.png)
-> <img src="https://user-images.githubusercontent.com/49416429/209580526-5afb4039-6e05-41f3-866d-5eda19b421ba.png" width="40" height="30"/>
+> <img src="https://user-images.githubusercontent.com/49416429/209580526-5afb4039-6e05-41f3-866d-5eda19b421ba.png" width="200" height="150"/>
 >   
 > #### 2. Image Deblurring  
 > ![wh_blurring](https://user-images.githubusercontent.com/49416429/209651222-11363520-277c-41aa-b478-824acc766506.png)
-> <img src="https://user-images.githubusercontent.com/49416429/209651222-11363520-277c-41aa-b478-824acc766506.png" width="40" height="30"/>
+> <img src="https://user-images.githubusercontent.com/49416429/209651222-11363520-277c-41aa-b478-824acc766506.png" width="200" height="150"/>
 
 <!--
 
