@@ -6,9 +6,8 @@
  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="20" /></a>  
 </p>
 
-### 🧍‍♂️About me
-> _work in progress.._    
-> [⟦resume⟧](https://drive.google.com/file/d/1jab-1Uogh6WBfP9R2GMAis9bZETy0sM0/view?usp=share_link)  
+### 🧍‍♂️About me  
+> [resume: _work in progress.._](https://drive.google.com/file/d/1jab-1Uogh6WBfP9R2GMAis9bZETy0sM0/view?usp=share_link)  
 > Email : ojkwon1@hanyang.ac.kr
 
 <p align="left">
