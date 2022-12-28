@@ -6,7 +6,9 @@
  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="20" /></a>  
 </p>
 
-### 🧍‍♂️O.J. Kwon
+### 🧍‍♂️About me
+> [resume](https://drive.google.com/file/d/1jab-1Uogh6WBfP9R2GMAis9bZETy0sM0/view?usp=share_link)
+> Email : ojkwon1@hanyang.ac.kr
 
 <p align="left">
  <img width="51%"  src="https://github-readme-stats.vercel.app/api?username=ohjunee&count_private=true&show_icons=true&include_all_commits=false&text_bold=false&hide_border=true&hide_title=true&theme=transparent&layout=compact" />
