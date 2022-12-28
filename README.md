@@ -7,7 +7,7 @@
 </p>
 
 ### 🧍‍♂️About me  
-> [resume: _work in progress.._](https://drive.google.com/file/d/1jab-1Uogh6WBfP9R2GMAis9bZETy0sM0/view?usp=share_link)  
+> [resume, _work in progress.._](https://drive.google.com/file/d/1jab-1Uogh6WBfP9R2GMAis9bZETy0sM0/view?usp=share_link)  
 > Email : ojkwon1@hanyang.ac.kr
 
 <p align="left">
