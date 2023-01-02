@@ -7,6 +7,8 @@
 </p>
 
 ### 🧍‍♂️About me  
+> work in progress  
+> _Email : ojkwon1@hanyang.ac.kr_
 
 <p align="left">
  <img width="51%"  src="https://github-readme-stats.vercel.app/api?username=ohjunee&count_private=true&show_icons=true&include_all_commits=false&text_bold=false&hide_border=true&hide_title=true&theme=transparent&layout=compact" />
