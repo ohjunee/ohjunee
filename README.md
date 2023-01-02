@@ -5,9 +5,8 @@
  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="20" /></a>
  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="20" /></a>  
 </p>
-
 ### 🧍‍♂️About me  
-> [_work in progress..._ ](https://docs.google.com/presentation/d/1BO-314bzEGFcuGh9mCT5MVGwLoMMQ7GP/edit?usp=share_link&ouid=112226799133213272031&rtpof=true&sd=true)  
+> [_work in progress..._ ](https://drive.google.com/file/d/1RC-q8eP21Lwn1YF2CdVa8F89gs1f92mp/view?usp=share_link)  
 > _Email : ojkwon1@hanyang.ac.kr_
 
 <p align="left">
