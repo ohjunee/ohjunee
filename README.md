@@ -8,7 +8,6 @@
 
 ### 🧍‍♂️About me  
 > [_work in progress..._ ](https://docs.google.com/presentation/d/1BO-314bzEGFcuGh9mCT5MVGwLoMMQ7GP/edit?usp=share_link&ouid=112226799133213272031&rtpof=true&sd=true)  
->  
 > _Email : ojkwon1@hanyang.ac.kr_
 
 <p align="left">
