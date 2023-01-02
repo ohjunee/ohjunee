@@ -5,9 +5,8 @@
  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="20" /></a>
  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="20" /></a>  
 </p>
+
 ### 🧍‍♂️About me  
-> work in progress  
-> _Email : ojkwon1@hanyang.ac.kr_
 
 <p align="left">
  <img width="51%"  src="https://github-readme-stats.vercel.app/api?username=ohjunee&count_private=true&show_icons=true&include_all_commits=false&text_bold=false&hide_border=true&hide_title=true&theme=transparent&layout=compact" />
