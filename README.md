@@ -7,7 +7,7 @@
 </p>
 
 ### 🧍‍♂️About me  
-> _Research statement :_ [_work in progress..._](https://drive.google.com/file/d/1zPNVvL3JYB_T2U839vYMIlewDHc5JFiW/view?usp=share_link)  
+> _Research statement :_ [_work in progress..._](https://drive.google.com/file/d/1m9fxLoxb-VXsLwH2cH1KIz84-j_FgfUe/view?usp=share_link)  
 > _Email : ojkwon1@hanyang.ac.kr / thtlfltm@naver.com_
 
 <p align="left">
